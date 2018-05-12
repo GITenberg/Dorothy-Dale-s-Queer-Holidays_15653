@@ -1,0 +1,30 @@
+_repo: Dorothy-Dale-s-Queer-Holidays_15653
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 15653-h/images/cover-tb.jpg
+creator:
+  author:
+    agent_name: Penrose, Margaret
+    gutenberg_agent_id: '1022'
+    url: http://www.gutenberg.org/2009/agents/1022
+    wikipedia: http://en.wikipedia.org/wiki/Margaret_Penrose
+description: The Dorothy Dale series, published by the world-renowned Stratemeyer
+  Syndicate under the pen name Margaret Penrose, was one of the first series marketed
+  toward a young female audience. The series pairs strong moral lessons with a heaping
+  dose of action-adventure that will capture and keep the attention of even reluctant
+  readers.
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2005-04-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15653'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Young women -- Juvenile fiction'
+- !lcc 'PZ'
+title: Dorothy Dale's Queer Holidays
+url: http://www.gutenberg.org/ebooks/15653
